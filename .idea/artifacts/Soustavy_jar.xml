@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Soustavy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Soustavy_jar</output-path>
+    <root id="archive" name="Soustavy.jar">
+      <element id="module-output" name="Soustavy" />
+    </root>
+  </artifact>
+</component>
